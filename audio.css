@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+.audio-container {
+  display: flex;
+  /* margin: auto; */
+  width: 10%;
+  height: 100vh;
+  background: black;
+}
+.prev {
+  width: 33%;
+  float: left;
+  cursor: pointer;
+}
+.play {
+  width: 33%;
+  float: left;
+  cursor: pointer;
+}
+.next {
+  width: 33%;
+  float: left;
+  cursor: pointer;
+}
